@@ -54,7 +54,7 @@ This section will be updated to include some of my major learnings while working
 
 I will be writing these out and providing code samples of areas I would like to highlight to reinforce my knowledge.
 
-When major learnings are shared, they will look like the below 😊:
+When major learnings are shared, they will look similar to the code snippets below 😊:
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
