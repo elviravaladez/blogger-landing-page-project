@@ -5,17 +5,17 @@ This is a solution to the [Blogr Landing Page Challenge on Frontend Mentor](http
 ## Table of Contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The Challenge](#the-challenge)
   - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [What I Learned](#what-i-learned)
+  - [Continued Development](#continued-development)
 - [Author](#author)
 
 ## Overview
 
-### The challenge
+### The Challenge
 
 Users should be able to:
 
@@ -31,7 +31,7 @@ Coming Soon 😊
 
 Coming Soon 😊
 
-## My process
+## My Process
 
 ### Built With
 
@@ -45,7 +45,7 @@ Coming Soon 😊
 - [Styled Components](https://styled-components.com/) - For styles
 
 
-### What I learned
+### What I Learned
 
 This section will be updated to include some of my major learnings while working through this project. 
 
