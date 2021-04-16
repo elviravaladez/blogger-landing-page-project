@@ -1,7 +1,43 @@
+:root {
+    /*COLORS*/
+
+    /*Primary*/
+    --CTA-text: hsl(356, 100%, 66%);
+    --CTA-hover-bg: hsl(355, 100%, 74%);
+    --headings: hsl(208, 49%, 24%);
+
+    /*Neutral*/
+    --text: hsl(0, 0%, 100%);
+    --footer-text: hsl(240, 2%, 79%);
+    --body-copy: hsl(207, 13%, 34%);
+    --footer-bg: hsl(240, 10%, 16%);
+
+    /*Gradient*/
+    --intro-CTA-mobile-nav-bg-gradient: hsl(13, 100%, 72%), hsl(353, 100%, 62%);
+    --body-bg-gradient: hsl(237, 17%, 21%), hsl(237, 23%, 32%);
+
+    /*Typography*/
+    --body-font-size: 16px;
+    --overpass-font-family: 'Overpass', sans-serif;
+    --ubuntu-font-family: 'Ubuntu', sans-serif;
+    --300-font-weight: 300;
+    --400-font-weight: 400;
+    --500-font-weight: 500;
+    --600-font-weight: 600;
+    --700-font-weight: 700;
+}
+
 .attribution {
     font-size: 11px; text-align: center;
 }
 
 .attribution a {
     color: hsl(228, 45%, 44%);
+}
+
+
+
+/*Desktop*/
+@media screen and (min-width:1440px) {
+    /* ... */
 }
